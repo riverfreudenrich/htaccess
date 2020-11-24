@@ -5,8 +5,8 @@ AuthType Basic
 <LIMIT GET>
 order deny,allow
 deny from all
-# whitelist Syed's IP address
+# whitelist Shawn Mendes IP address
 allow from xx.xx.xx.xxx
-# whitelist David's IP address
+# whitelist Adam Young's IP address
 allow from xx.xx.xx.xxx
 </LIMIT>
